@@ -1,1 +1,1 @@
-mario_more.c - more comfortable task solution
+mario_more.c - more comfortable mario task solution
